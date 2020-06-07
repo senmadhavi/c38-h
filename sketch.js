@@ -29,6 +29,7 @@ function setup() {
 
 
 function draw() {
+    
     if (playerCount === 2) {
         game.update(1);
     }
